@@ -12,3 +12,7 @@
 ### 3. Воронка продаж - [проект](https://github.com/lenakosteva/portfolio/blob/main/BI/dashboard_sales_funnel.png)
 
 Дашборд показывает анализ эффективности процесса конверсии от стадии бронирования до завершения оплаты 
+
+### 4. Кластеризация объктов недвижимости - [проект](https://github.com/lenakosteva/portfolio/tree/main/BI/streamlit)
+
+Дашборд показывает результаты кластерного анализа объектов недвижимости с использованием библиотеки streamlit [p1](https://github.com/lenakosteva/portfolio/blob/main/BI/streamlit/dash_1.png), [p2](https://github.com/lenakosteva/portfolio/blob/main/BI/streamlit/dash_2.png), [p3](https://github.com/lenakosteva/portfolio/blob/main/BI/streamlit/dash_3.png), [p4](https://github.com/lenakosteva/portfolio/blob/main/BI/streamlit/dash_4.png), 
