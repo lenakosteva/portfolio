@@ -18,6 +18,5 @@
 
 ## Проекты
 
-- **Project1** — краткое описание проекта 1  
-- **Project2** — краткое описание проекта 2  
-- **Project3** — краткое описание проекта 3  
+- [BI](https://github.com/lenakosteva/portfolio/tree/main/BI) — здесь собраны дашборды
+- [Аналитика данных](https://github.com/lenakosteva/portfolio/tree/main/data_analytics) — здесь собраны проекты по аналитике различных датасетов на python 
